@@ -74,16 +74,16 @@ painel-de-ideias/
 
 ## Checklist de teste
 
-- [ ] `npm run dev` inicia sem erros.
-- [ ] Adicionar uma ideia faz o item aparecer na lista.
-- [ ] Enviar o formulário vazio ou só com espaços exibe a mensagem de validação.
-- [ ] Digitar novamente limpa a mensagem de erro.
-- [ ] Marcar o checkbox risca o texto e atualiza os contadores.
-- [ ] Desmarcar o checkbox retorna a ideia para pendente.
-- [ ] Remover uma ideia atualiza a lista e os contadores.
-- [ ] Os filtros Todas, Pendentes e Concluídas funcionam.
-- [ ] Recarregar a página limpa as ideias, conforme esperado.
-- [ ] `npm run build` termina sem erros.
+- `npm run dev` inicia sem erros.
+- Adicionar uma ideia faz o item aparecer na lista.
+- Enviar o formulário vazio ou só com espaços exibe a mensagem de validação.
+- Digitar novamente limpa a mensagem de erro.
+- Marcar o checkbox risca o texto e atualiza os contadores.
+- Desmarcar o checkbox retorna a ideia para pendente.
+- Remover uma ideia atualiza a lista e os contadores.
+- Os filtros Todas, Pendentes e Concluídas funcionam.
+- Recarregar a página limpa as ideias, conforme esperado.
+- `npm run build` termina sem erros.
 
 ## Sugestão de commits
 
